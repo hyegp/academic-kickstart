@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Hyegyeong Park
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Department of Computer Science, Carnegie Mellon University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+I am currently working as a postdoctoral fellow in the Computer Science Department at Carnegie Mellon University under the mentorship of Prof. Rashmi K. Vinayak. Before joining CMU, I was a postdoctoral researcher in the School of Electrical Engineering at KAIST under the supervision of Prof. Jaekyun Moon.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+I received the B.S., M.S. (Thesis: Joint LDPC decoding and ISI channel detection) and Ph.D. (Thesis: Coding for distributed storage and computing) degrees in electrical engineering from KAIST in 2012, 2014, and 2018, respectively.
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+My research interests lie in the field of coding and information theory for distributed systems with the current focus on coding for distributed computing and distributed machine learning algorithms.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
